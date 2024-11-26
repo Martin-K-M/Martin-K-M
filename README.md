@@ -1,6 +1,3 @@
-Wannabe Data Science Major
-
-Pretty shit programmer 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Martin-K-M&theme=transparent&hide_border=true)](https://git.io/streak-stats) \
